@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1720618433 source:d:\csm158\function\standard-deviation\main.cpp
+	<iostream>
+	<cmath>
+
+1720612842 source:d:\csm158\function\standard-deviation\stddev.cpp
+
